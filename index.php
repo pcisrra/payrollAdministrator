@@ -76,14 +76,14 @@
     <div class="container">
       <div class="masthead">
         <h3>
-          <b>Administración de Pagos</b>
+          <b>Payroll Administration System</b>
             <a data-toggle="modal" href="#colins" class="pull-right"><b><?php echo $_SESSION['username']; ?></b></a>
         </h3>
         <nav>
           <ul class="nav nav-justified">
-            <li><a href="home_employee.php">Empleados</a></li>
-            <li><a href="home_deductions.php">Deduciones</a></li>
-            <li><a href="home_salary.php">Salarios</a></li>
+            <li><a href="home_employee.php">Employee</a></li>
+            <li><a href="home_deductions.php">Deduction/s</a></li>
+            <li><a href="home_salary.php">Income</a></li>
           </ul>
         </nav>
       </div><br>
